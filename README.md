@@ -1,6 +1,6 @@
 # firstMegaMenu
 *😁 This is my first mega menu which I create only with HTML and CSS*
-- [Demo Project](https://github.com/masoomi1396/firstMegaMenu)
+- [Demo Project](https://masoomi1396.github.io/firstMegaMenu/)
 - Developed by Amirmohammad Masoumi
 - Created - 2023-06-09
 - 🤖 Technologies Used - Html , css 
