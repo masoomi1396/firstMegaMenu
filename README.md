@@ -7,5 +7,5 @@
 
 - How to reach me : with my
 [instagram](https://www.instagram.com/masoomi1402) and
-[linkedin](https://www.linkedin.com/in/masoomi1402) 
+[linkedin](https://www.linkedin.com/in/masoumi1402) 
 
